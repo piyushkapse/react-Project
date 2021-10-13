@@ -2,6 +2,10 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 import EGGIMAGE from '../assets/images/NakedEgg_DSC_5428_H.jpg';
+import EGG_IMAGE from '../assets/images/Egg_GYM.jpeg';
+import EGG_IMAGE1 from '../assets/images/Eggs-main-alt-min.jpg';
+import EGG_IMAGE2 from '../assets/images/EGGS_ERCISE.jpg';
+import EGG_IMAGE3 from '../assets/images/EGG_TRAY.jpg';
 function Cards() {
   return (
     <div className='cards'>
@@ -16,7 +20,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='../assets/images/NakedEgg_DSC_5428_H.jpg'
+              src={EGG_IMAGE}
               text='JUST FLATTEN THE WEGG out of you'
               label='GetFit with EGG'
               path='/services'
@@ -24,19 +28,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='../assets/images/NakedEgg_DSC_5428_H.jpg'
+              src={EGG_IMAGE1}
               text='Meal EGGILICIOUS'
               label='Meal to cheat on'
               path='/services'
             />
             <CardItem
-              src='../assets/images/NakedEgg_DSC_5428_H.jpg'
+              src={EGG_IMAGE2}
               text='GET your Eggs Rolling '
               label='Let your egg to do it'
               path='/products'
             />
             <CardItem
-              src='../assets/images/NakedEgg_DSC_5428_H.jpg'
+              src={EGG_IMAGE3}
               text='Let it Rip with your egg at ease'
               label='Adrenaline Rush'
               path='/sign-up'
