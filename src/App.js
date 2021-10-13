@@ -10,7 +10,15 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <>
-      <div><p>Hello world react</p></div>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route path='/' exact component={Home} />
+          <Route path='/services' component={Services} />
+          <Route path='/products' component={Products} />
+          <Route path='/sign-up' component={SignUp} />
+        </Switch>
+      </Router>
     </>
   );
 }
