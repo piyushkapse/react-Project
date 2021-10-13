@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/react-Project/static/css/main.67e234a6.chunk.css",
-    "main.js": "/react-Project/static/js/main.91c1ba08.chunk.js",
-    "main.js.map": "/react-Project/static/js/main.91c1ba08.chunk.js.map",
+    "main.css": "/react-Project/static/css/main.1b37fffd.chunk.css",
+    "main.js": "/react-Project/static/js/main.265a7095.chunk.js",
+    "main.js.map": "/react-Project/static/js/main.265a7095.chunk.js.map",
     "runtime-main.js": "/react-Project/static/js/runtime-main.3c423141.js",
     "runtime-main.js.map": "/react-Project/static/js/runtime-main.3c423141.js.map",
-    "static/js/2.a7211682.chunk.js": "/react-Project/static/js/2.a7211682.chunk.js",
-    "static/js/2.a7211682.chunk.js.map": "/react-Project/static/js/2.a7211682.chunk.js.map",
+    "static/js/2.e96f583d.chunk.js": "/react-Project/static/js/2.e96f583d.chunk.js",
+    "static/js/2.e96f583d.chunk.js.map": "/react-Project/static/js/2.e96f583d.chunk.js.map",
     "index.html": "/react-Project/index.html",
-    "precache-manifest.c62f36d5441dd869b006a5be30fbbca2.js": "/react-Project/precache-manifest.c62f36d5441dd869b006a5be30fbbca2.js",
+    "precache-manifest.b3a901e6c47175a69a9a55dda5635a4f.js": "/react-Project/precache-manifest.b3a901e6c47175a69a9a55dda5635a4f.js",
     "service-worker.js": "/react-Project/service-worker.js",
-    "static/css/main.67e234a6.chunk.css.map": "/react-Project/static/css/main.67e234a6.chunk.css.map",
-    "static/js/2.a7211682.chunk.js.LICENSE.txt": "/react-Project/static/js/2.a7211682.chunk.js.LICENSE.txt",
+    "static/css/main.1b37fffd.chunk.css.map": "/react-Project/static/css/main.1b37fffd.chunk.css.map",
+    "static/js/2.e96f583d.chunk.js.LICENSE.txt": "/react-Project/static/js/2.e96f583d.chunk.js.LICENSE.txt",
     "static/media/EGGS_ERCISE.jpg": "/react-Project/static/media/EGGS_ERCISE.6d94d38a.jpg",
     "static/media/EGG_TRAY.jpg": "/react-Project/static/media/EGG_TRAY.788107c1.jpg",
     "static/media/Eggs-main-alt-min.jpg": "/react-Project/static/media/Eggs-main-alt-min.b7ad2f14.jpg",
-    "static/media/NakedEgg_DSC_5428_H.jpg": "/react-Project/static/media/NakedEgg_DSC_5428_H.73e4cd53.jpg"
+    "static/media/NakedEgg_DSC_5428_H.jpg": "/react-Project/static/media/NakedEgg_DSC_5428_H.73e4cd53.jpg",
+    "static/media/egg_ae_80__2.gif": "/react-Project/static/media/egg_ae_80__2.4a02dad7.gif",
+    "static/media/video-1.mp4": "/react-Project/static/media/video-1.229f5279.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.3c423141.js",
-    "static/js/2.a7211682.chunk.js",
-    "static/css/main.67e234a6.chunk.css",
-    "static/js/main.91c1ba08.chunk.js"
+    "static/js/2.e96f583d.chunk.js",
+    "static/css/main.1b37fffd.chunk.css",
+    "static/js/main.265a7095.chunk.js"
   ]
 }

@@ -2,10 +2,11 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 import EGGIMAGE from '../assets/images/NakedEgg_DSC_5428_H.jpg';
-import EGG_IMAGE from '../assets/images/Egg_GYM.jpeg';
+import EGG_IMAGE from '../assets/images/egg_ae_80__2.gif';
 import EGG_IMAGE1 from '../assets/images/Eggs-main-alt-min.jpg';
 import EGG_IMAGE2 from '../assets/images/EGGS_ERCISE.jpg';
 import EGG_IMAGE3 from '../assets/images/EGG_TRAY.jpg';
+
 function Cards() {
   return (
     <div className='cards'>
