@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.786d09cc.chunk.css",
-    "main.js": "/static/js/main.e1d91816.chunk.js",
-    "main.js.map": "/static/js/main.e1d91816.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.43d270ea.chunk.js": "/static/js/2.43d270ea.chunk.js",
-    "static/js/2.43d270ea.chunk.js.map": "/static/js/2.43d270ea.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9e84d0aec671b626a315bc39b1a999a3.js": "/precache-manifest.9e84d0aec671b626a315bc39b1a999a3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.786d09cc.chunk.css.map": "/static/css/main.786d09cc.chunk.css.map",
-    "static/js/2.43d270ea.chunk.js.LICENSE.txt": "/static/js/2.43d270ea.chunk.js.LICENSE.txt",
-    "static/media/NakedEgg_DSC_5428_H.jpg": "/static/media/NakedEgg_DSC_5428_H.73e4cd53.jpg"
+    "main.css": "/react-Project/static/css/main.786d09cc.chunk.css",
+    "main.js": "/react-Project/static/js/main.e1d91816.chunk.js",
+    "main.js.map": "/react-Project/static/js/main.e1d91816.chunk.js.map",
+    "runtime-main.js": "/react-Project/static/js/runtime-main.3c423141.js",
+    "runtime-main.js.map": "/react-Project/static/js/runtime-main.3c423141.js.map",
+    "static/js/2.43d270ea.chunk.js": "/react-Project/static/js/2.43d270ea.chunk.js",
+    "static/js/2.43d270ea.chunk.js.map": "/react-Project/static/js/2.43d270ea.chunk.js.map",
+    "index.html": "/react-Project/index.html",
+    "precache-manifest.bc750716121e3b5ea2f0e92d0cee7454.js": "/react-Project/precache-manifest.bc750716121e3b5ea2f0e92d0cee7454.js",
+    "service-worker.js": "/react-Project/service-worker.js",
+    "static/css/main.786d09cc.chunk.css.map": "/react-Project/static/css/main.786d09cc.chunk.css.map",
+    "static/js/2.43d270ea.chunk.js.LICENSE.txt": "/react-Project/static/js/2.43d270ea.chunk.js.LICENSE.txt",
+    "static/media/NakedEgg_DSC_5428_H.jpg": "/react-Project/static/media/NakedEgg_DSC_5428_H.73e4cd53.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ba1596e.js",
+    "static/js/runtime-main.3c423141.js",
     "static/js/2.43d270ea.chunk.js",
     "static/css/main.786d09cc.chunk.css",
     "static/js/main.e1d91816.chunk.js"
