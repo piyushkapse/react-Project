@@ -16,7 +16,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='images/egg_ae_80__2.gif'
+              src='/images/egg_ae_80__2.gif'
               text='JUST FLATTEN THE WEGG out of you'
               label='GetFit with EGG'
               path='/services'
@@ -24,19 +24,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/Eggs-main-alt-min.jpg'
+              src='/images/Eggs-main-alt-min.jpg'
               text='Meal EGGILICIOUS'
               label='Meal to cheat on'
               path='/services'
             />
             <CardItem
-              src='images/EGGS_ERCISE.jpg'
+              src='/images/EGGS_ERCISE.jpg'
               text='GET your Eggs Rolling '
               label='Let your egg to do it'
               path='/products'
             />
             <CardItem
-              src='images/EGG_TRAY.jpg'
+              src='/images/EGG_TRAY.jpg'
               text='Let it Rip with your egg at ease'
               label='Adrenaline Rush'
               path='/sign-up'
